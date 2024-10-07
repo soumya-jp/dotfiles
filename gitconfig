@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = soumya.bhavaraju@gmail.com
+	name = Soumya Bhavaraju
